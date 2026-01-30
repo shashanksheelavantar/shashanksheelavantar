@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 💫 About Me:
 🔭 I’m currently working on DevOps fundamentals – CI/CD pipelines, Docker, Linux, and cloud basics<br><br>👯 I’m looking to collaborate on full-stack web apps, MERN projects, and beginner-friendly DevOps automation projects<br><br>🤝 I’m looking for help with advanced DevOps tools (Kubernetes, AWS/GCP) and real-world deployment best practices<br><br>🌱 I’m currently learning DevOps while having strong hands-on experience with the MERN stack<br><br>💬 Ask me about MERN stack (MongoDB, Express, React, Node.js), REST APIs, PostgreSQL, and basic DevOps workflows<br><br>⚡ Fun fact: I enjoy building projects that go from code → deployment → production 🚀<br>
 
@@ -21,5 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shashanksheelavantar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
